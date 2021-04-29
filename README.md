@@ -16,6 +16,7 @@
 ## projects
 
 + 21-1 Capstone design project
+  https://github.com/leedhn/capstone21-1
   + NLP 
   + QuestionAnswering
   + CommonsenseQA
