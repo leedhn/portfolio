@@ -58,7 +58,21 @@
     https://www.notion.so/OS-2b84197b790748d389e1b41f82372504
     
 ## courses
-21-1 
-  
-   Multicore & GPU programmin   Capstone design( ㅗ
-    https://www.notion.so/OS-2b84197b790748d389e1b41f82372504
+   Computer Architecture
+   Operating System
+   Algorithm Analysis
+   Data structure
+   Multicore and GPU programming (21-1)
+   Capstone Design (21-1)
+   Computer Vision (21-1)
+   Machine Learning (21-1)
+   information security (21-1)
+   mathematical statistics
+   Machine learning and its applications
+   Computer programming
+   Object Oriented Programming
+   Computer Systems
+   Discrete structure
+   Probability and Statistics
+   Linear algebra
+   ...
