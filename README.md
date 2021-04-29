@@ -41,6 +41,6 @@
   + 데이터 크롤링, flutter
 
 ## Study
-+ Ybigta 20-2 Docker
++ Ybigta 20-2 Docker 스터디
 + Ybigta 21-1 방학 스터디- NLP 스터디
 + Ybigta 21-1 DS, OS 복습 스터디
