@@ -24,8 +24,9 @@
   + Commonsense Knwledge 
   + error expert
   
-+ 21.01~02 convei LAB persona team
-  + ACL-IJCNLP 2021 submit ->reject
++ 21.01~02 convei LAB persona team 
+
+  + ACL-IJCNLP 2021 submit
   + persona linking
   + persona chat
   + mnli
@@ -47,6 +48,17 @@
   + 데이터 크롤링, flutter
 
 ## Study
+
 + Ybigta 20-2 Docker 스터디
-+ Ybigta 21-1 방학 스터디- NLP 스터디
+  + https://www.notion.so/2021-Docker-3453afd8f5c94a95afd53d0190dd3f76
++ Ybigta 21-1 방학 스터디 - NLP 스터디
+
 + Ybigta 21-1 DS, OS 복습 스터디
+  + OS
+    https://www.notion.so/OS-2b84197b790748d389e1b41f82372504
+    
+## courses
+21-1 
+  
+   Multicore & GPU programmin   Capstone design( ㅗ
+    https://www.notion.so/OS-2b84197b790748d389e1b41f82372504
