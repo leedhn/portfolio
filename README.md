@@ -16,6 +16,7 @@
 ## projects
 
 + 21-1 Capstone design project
+
   https://github.com/leedhn/capstone21-1
   + NLP 
   + QuestionAnswering
@@ -34,6 +35,8 @@
 ## Toy projects  
 
 + 20-2 Ybigta Conference
+
+  https://github.com/leedhn/NewsDashboard/tree/nlp
   + 실시간성 뉴스 클러스터링 모델 
   + DBscan, PCA, KoSentenceBERT
   
