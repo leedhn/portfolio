@@ -41,6 +41,8 @@
   + DBscan, PCA, KoSentenceBERT
   
 + Software Engineering 
+
+  https://github.com/jwjin95/SW_project
   + 자동완성 일기장 어플 구현
   + 데이터 크롤링, flutter
 
