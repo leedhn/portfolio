@@ -49,12 +49,19 @@
   + 데이터 크롤링, flutter
 
 + Computer vision
+
   + fourier 이미지 노이즈 removing
-  + hifi-lofi filtering
+  + high-pass filter, low-pass filter
+  + average filter, median filter, bilateral filter
 
 + machine learning
-  + kernel trick
+
+  https://github.com/leedhn/machine-learning
+  
   + linear model
+  + kernel trick
+  + decision tree
+  + 
 ## Study
 
 + Ybigta 20-2 방학 스터디 - machine learning 스터디
