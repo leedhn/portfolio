@@ -50,6 +50,8 @@
 
 + Computer vision
 
+  https://github.com/leedhn/computer-vision
+  
   + fourier 이미지 노이즈 removing
   + high-pass filter, low-pass filter
   + average filter, median filter, bilateral filter
