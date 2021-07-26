@@ -118,4 +118,20 @@
    
    Linear algebra
    
+   스타트업인턴십(21-summer) - openedge tech. 
    ...
+## 개인 공부 정리
++ NLP
+
+  + GPT2
+
+   https://www.notion.so/GPT2-901c99835b814f519bc6bc15531dde58
+
+
++ VISION (CNN)
+
+https://www.notion.so/COMPUTER-VISION-CNN-e9f011ac45a746368291060e054f6500
+
++ QUANTIZATION
+
+https://www.notion.so/Quantization-3da4f1cb3d77488abfbe709454fa76f6
