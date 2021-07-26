@@ -13,6 +13,10 @@
   + 2020.08~현재
   + Data engineering team 소속
 
++ openedge technology 스타트업 인턴십 (21-여름 계절학기)
+  + NPU
+  + Quantization
+
 ## projects
 
 + 21-1 Capstone design project
