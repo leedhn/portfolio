@@ -1,7 +1,7 @@
 # portfolio
 ## about me
 + 이다현
-+ 1998.12.20
++ 1998.
 + contect: leedhn@yonsei.ac.kr
 + 연세대학교 컴퓨터과학과 
 
@@ -79,6 +79,9 @@
     
 + Ybigta 21-1 알고리즘 코딩 스터디
   + book: 이것이 코딩테스트다 (관련 공식 깃헙: https://github.com/ndb796/python-for-coding-test)
+
++ Ybigta 21-2 방학 스터디 - Spring 스터디
+  + study course : inflearn 스프링 입문, 스프링 핵심 원리
   
 ## courses
    Computer Architecture
