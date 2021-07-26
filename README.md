@@ -27,7 +27,7 @@
 + 21.01~02 convei LAB persona team 
   
   https://github.com/leedhn/lab
-  + ACL-IJCNLP 2021 submit
+  + for ACL-IJCNLP 2021 submission
   + persona linking
   + persona chat
   + mnli
