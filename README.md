@@ -16,6 +16,11 @@
 + openedge technology 스타트업 인턴십 (21-여름 계절학기)
   + NPU
   + Quantization
+  + [MobileNet V2 세미나 자료 - CNN](https://efficient-chanter-315.notion.site/COMPUTER-VISION-CNN-e9f011ac45a746368291060e054f6500)
+  + [MobileNet V2 세미나 자료 - MobileNet V2](https://efficient-chanter-315.notion.site/MobileNetV2-4d252e16e6c845a18ce13376d249aee1)
+  + [MobileNet V2 Quantization 보고서](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d9a93e9b-f49a-4f27-8379-7fb83983d3de/Task_2___MobileNet_V2_Quantization.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210914%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210914T025514Z&X-Amz-Expires=86400&X-Amz-Signature=5e6ded6f904faf7ff0396eb74fe69759914988c9918fcb7bdea6e28a083c08bb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Task%25202%2520_%2520MobileNet%2520V2%2520Quantization.pdf%22)
+  + [Quantization 인턴십 최종 보고 자료](https://efficient-chanter-315.notion.site/b874dd12272f483997e01f8b370fdea1)
+  + [NLP 세미나 자료 - GPT2,BERT](https://docs.google.com/presentation/d/14eWyg28MzNxRjDiAU9TssY4w1Uc53GyV/edit?usp=sharing&ouid=101401387651046745008&rtpof=true&sd=true)
 
 ## projects
 
