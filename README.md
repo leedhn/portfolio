@@ -22,6 +22,10 @@
   + [Quantization 인턴십 최종 보고 자료](https://efficient-chanter-315.notion.site/b874dd12272f483997e01f8b370fdea1)
   + [NLP 세미나 자료 - GPT2,BERT](https://docs.google.com/presentation/d/14eWyg28MzNxRjDiAU9TssY4w1Uc53GyV/edit?usp=sharing&ouid=101401387651046745008&rtpof=true&sd=true)
 
++ Naver search NLP 기술 개발 체험형 인턴십 (08.23~ 11.19 진행중)
+  + web demo site 개발
+  + Linux pipeline w. python - NLP postprocessing
+
 ## projects
 
 + 21-1 Capstone design project
@@ -90,7 +94,8 @@
   + book: 이것이 코딩테스트다 (관련 공식 깃헙: https://github.com/ndb796/python-for-coding-test)
 
 + Ybigta 21-2 방학 스터디 - Spring 스터디
-  + study course : inflearn 스프링 입문, 스프링 핵심 원리
+  + study course : inflearn 스프링 입문, 스프링 핵심 원리 
+   + [seciton2,3 정리](https://efficient-chanter-315.notion.site/section-2-3-8c30a32da0e9407d8ad2a15caa01e93c)
   
 ## courses
    Computer Architecture
