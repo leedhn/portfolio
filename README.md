@@ -24,7 +24,7 @@
 
 + Naver search NLP 기술 개발 체험형 인턴십 (08.23~ 11.19 진행중)
   + web demo site 개발
-  + Linux pipeline w. python - NLP postprocessing
+  + Linux pipeline w. python - NLP preprocessing, postprocessing
 
 ## projects
 
