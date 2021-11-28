@@ -22,7 +22,7 @@
   + [Quantization 인턴십 최종 보고 자료](https://efficient-chanter-315.notion.site/b874dd12272f483997e01f8b370fdea1)
   + [NLP 세미나 자료 - GPT2,BERT](https://docs.google.com/presentation/d/14eWyg28MzNxRjDiAU9TssY4w1Uc53GyV/edit?usp=sharing&ouid=101401387651046745008&rtpof=true&sd=true)
 
-+ Naver search NLP 기술 개발 체험형 인턴십 (08.23~ 11.19 진행중)
++ Naver search NLP 기술 개발 체험형 인턴십 (08.23~ 11.19)
   + web demo site 개발
   + Linux pipeline w. python - NLP preprocessing, postprocessing
 
