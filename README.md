@@ -2,7 +2,7 @@
 ## about me
 + 이다현
 + 1998
-+ contect: leedhn@yonsei.ac.kr
++ contact: leedhn@yonsei.ac.kr
 + 연세대학교 컴퓨터과학과 
 
 + convai lab 학부생 인턴
