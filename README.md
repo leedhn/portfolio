@@ -3,15 +3,27 @@
 + 이다현
 + 1998
 + contact: leedhn@yonsei.ac.kr
-+ 연세대학교 컴퓨터과학과 
++ 연세대학교 컴퓨터과학과 학석사연계과정 
 
-+ convai lab 학부생 인턴
-  + 2020.05~2021.02
-  + persona-linking 
+## Interested in (Research topics)
+  + Information Retrieval
+    + Dense Passage Retrieval : Causal signal, Open-domain Question Answering, Contrastive learning
+      + *Paper writing for ICLR 2023 Submission*
+  + Dialogue Agent 
+    + Multi-source conversation : Commonsense, persona
+  + Machine Reasoning
+  + Natural Language Processing
+
+## Experiments
+
++ 우리은행 산학프로젝트 : AI Banker - Smart Search & Smart KMS (2022.03 ~ 2022.08)
+  + Smart Search
+  + 검색 엔진 개발 : Dense Passage Retrieval 적용, Data augmentation via Query generation, BM25 Ensemble
   
-+ Ybigta 학회 17기
-  + 2020.08~현재
-  + Data engineering team 소속
+  
++ Naver search NLP 기술 개발 체험형 인턴십 (2021.08.23~ 2021.11.19)
+  + web demo site 개발
+  + Linux pipeline w. python - NLP preprocessing, postprocessing
 
 + openedge technology 스타트업 인턴십 (21-여름 계절학기)
   + NPU
@@ -22,10 +34,14 @@
   + [Quantization 인턴십 최종 보고 자료](https://efficient-chanter-315.notion.site/b874dd12272f483997e01f8b370fdea1)
   + [NLP 세미나 자료 - GPT2,BERT](https://docs.google.com/presentation/d/14eWyg28MzNxRjDiAU9TssY4w1Uc53GyV/edit?usp=sharing&ouid=101401387651046745008&rtpof=true&sd=true)
 
-+ Naver search NLP 기술 개발 체험형 인턴십 (08.23~ 11.19)
-  + web demo site 개발
-  + Linux pipeline w. python - NLP preprocessing, postprocessing
++ Ybigta 학회 17기
+  + 2020.08~현재
+  + Data engineering team 소속
 
++ convai lab 학부생 인턴
+  + 2020.05~2021.02
+  + persona-linking 
+  
 ## projects
 
 + 21-1 Capstone design project
