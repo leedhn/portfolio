@@ -1,4 +1,9 @@
 # portfolio
+
+## CV
+[Resume_Dahyun_Lee.pdf](https://github.com/leedhn/portfolio/files/10821797/Resume_Dahyun_Lee.pdf)
+
+
 ## about me
 + 이다현
 + 1998
