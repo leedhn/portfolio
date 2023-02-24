@@ -8,7 +8,9 @@
 ## Interested in (Research topics)
   + Information Retrieval
     + Dense Passage Retrieval : Causal signal, Open-domain Question Answering, Contrastive learning
-      + *Paper writing for ICLR 2023 Submission*
+      + *Under review in SIGIR'23*
+  + Large Language Model
+    + Knowledge-intensive task : Reasoning, Question Answering
   + Dialogue Agent 
     + Multi-source conversation : Commonsense, persona
   + Machine Reasoning
@@ -19,8 +21,7 @@
 + 우리은행 산학프로젝트 : AI Banker - Smart Search & Smart KMS (2022.03 ~ 2022.08)
   + Smart Search
   + 검색 엔진 개발 : Dense Passage Retrieval 적용, Data augmentation via Query generation, BM25 Ensemble
-  
-  
+ 
 + Naver search NLP 기술 개발 체험형 인턴십 (2021.08.23~ 2021.11.19)
   + web demo site 개발
   + Linux pipeline w. python - NLP preprocessing, postprocessing
